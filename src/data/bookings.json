@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "service": "Home Cleaning",
+    "addons": ["Kitchen Cleaning", "Bathroom Sanitization"],
+    "date": "2024-05-20",
+    "time": "2:00 PM",
+    "price": 80,
+    "status": "In Progress",
+    "address": "221B Baker Street, London"
+  },
+  {
+    "id": 2,
+    "service": "Yoga Session",
+    "addons": ["Personal Trainer"],
+    "date": "2024-05-18",
+    "time": "10:00 AM",
+    "price": 50,
+    "status": "Completed",
+    "address": "Studio 5, Wellness Center"
+  },
+  {
+    "id": 3,
+    "service": "Plumbing Repair",
+    "addons": ["Emergency Visit"],
+    "date": "2024-05-15",
+    "time": "4:00 PM",
+    "price": 120,
+    "status": "Cancelled",
+    "address": "742 Evergreen Terrace"
+  }
+]
